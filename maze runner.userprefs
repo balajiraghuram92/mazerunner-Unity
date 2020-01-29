@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\time.js">
+    <Files>
+      <File FileName="Assets\scripts\blinking.js" Line="50" Column="19" />
+      <File FileName="Assets\scripts\blinklose.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\replay.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\score.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\time.js" Line="25" Column="25" />
+      <File FileName="Assets\scripts\menu.js" Line="23" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
